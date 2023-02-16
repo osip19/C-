@@ -16,7 +16,7 @@ if (number == 6)
 	Console.WriteLine("Суббота");
 if (number == 7)
 	Console.WriteLine("Воскресенье");
-if (number <1)
+if (number < 1)
 	Console.WriteLine("Нет такого дня недели");
-if (number >7)
+if (number > 7)
 	Console.WriteLine("Нет такого дня недели");
