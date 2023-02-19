@@ -21,16 +21,12 @@
 // 	return d;
 // }
 
+
+// МОЕ РЕШЕНИЕ
 System.Console.WriteLine("Введите число: ");
 int a = Convert.ToInt32(System.Console.ReadLine());
-if (a <= 99)
-	System.Console.WriteLine("В указанном числе нет третьей цифры");
-
-while (a >= 1000) a /= 10;
-int b = a % 10;
-if (b < 1000)
-	System.Console.WriteLine(b);
-else
-{
-	System.Console.WriteLine("Непредвиденная ошибка");
-}
+int B = a;
+if (B <= 99) {System.Console.WriteLine("Введено не корректное значеине. Прорамма закончена. А крайнее значение Вашего числа ");} //return;
+while (a > 1000) { a /= 10; }
+// System.Console.WriteLine(a);
+System.Console.WriteLine(a % 10);
