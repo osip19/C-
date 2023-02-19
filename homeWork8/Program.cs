@@ -12,9 +12,9 @@ int b = Convert.ToInt32(System.Console.ReadLine());
 if (a * a == b)
 
 	{System.Console.WriteLine("Да"); }
-else if ( b* b == a);
+else if ( b* b == a)
 	{System.Console.WriteLine("Да"); }
-else if ();
+else 
 {
-	System.Console.WriteLine("Нет")
+	System.Console.WriteLine("Нет");
 }
