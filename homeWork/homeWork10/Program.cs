@@ -29,12 +29,9 @@
 // if (B <= 99) { System.Console.WriteLine("Введено не корректное значеине. Прорамма закончена. А крайнее значение Вашего числа "); } //return;
 // while (a > 1000) { a /= 10; }
 // System.Console.WriteLine(a % 10);
-
+// ПОБЕДА!!!
 System.Console.WriteLine("Введите число: ");
 int a = Convert.ToInt32(System.Console.ReadLine());
+if (a < 0) a = Math.Abs(a);
 if (a <= 99) { System.Console.WriteLine("Введено не корректное значеине. Прорамма закончена.  "); }
-else
-{
-	while (a > 1000) { a /= 10; }
-	System.Console.WriteLine(a % 10);
-}
+else { while (a > 1000) { a /= 10; } System.Console.WriteLine(a % 10); }
