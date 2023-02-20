@@ -34,6 +34,6 @@
 // ПОБЕДА!!!
 System.Console.WriteLine("Введите число: ");
 int a = Convert.ToInt32(System.Console.ReadLine());
-if (a < 0) a = Math.Abs(a);
+if (a < 0)  a = a * (-1); // или a = Math.Abs(a);
 if (a <= 99) { System.Console.WriteLine("В этом числе нет третьей цифры! Прорамма закончена.  "); }
 else { while (a > 1000) { a /= 10; } System.Console.WriteLine(a % 10); }
