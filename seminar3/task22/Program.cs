@@ -9,7 +9,7 @@ int a = Convert.ToInt32(System.Console.ReadLine());
 int b = 0;
 while (b <= a)
 {
-	double c = Math.Pow(b, 3);
+	double c = Math.Pow(b, 2);
 	b++;
 	System.Console.WriteLine(c);
 }
