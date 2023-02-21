@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\prank\prank0\bin\Debug\net7.0\prank0.exe
+C:\Users\User\Desktop\C#\prank\prank0\bin\Debug\net7.0\prank0.deps.json
+C:\Users\User\Desktop\C#\prank\prank0\bin\Debug\net7.0\prank0.runtimeconfig.json
+C:\Users\User\Desktop\C#\prank\prank0\bin\Debug\net7.0\prank0.dll
+C:\Users\User\Desktop\C#\prank\prank0\bin\Debug\net7.0\prank0.pdb
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.dll
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\refint\prank0.dll
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.pdb
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\prank0.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\prank\prank0\obj\Debug\net7.0\ref\prank0.dll
